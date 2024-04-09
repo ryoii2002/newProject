@@ -14,6 +14,7 @@ namespace WindowsFormsApp1
     public partial class Form1 : Form
     {
         static int a = 0;
+        static int b = 0;
         public Form1()
         {
             InitializeComponent();
