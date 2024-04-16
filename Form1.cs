@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
     {
         static int a = 0;
         static int b = 0;
+        static int c = 0;
 
         public Form1()
         {
